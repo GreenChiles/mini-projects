@@ -10,21 +10,21 @@ body {
     
  }
 
- #start {
-    ;
+ #sta {
+    height: 20px;
  }
 
- #stop {
-
+ #sto {
+    height: 20px;
  }
 
- #reset {
-
+ #res {
+    height: 20px;
  }
  
 
 
- #time {
+ #timer {
      text-align: center;
      font-size: 80px;
  }
