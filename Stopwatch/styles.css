@@ -11,20 +11,36 @@ body {
  }
 
  #sta {
-    height: 20px;
+    height: 40px;
+    width: 80px;
+    background-color: black;
+    color: white;
  }
 
  #sto {
-    height: 20px;
+    height: 40px;
+    width: 80px;
+    background-color: black;
+    color: white;
  }
 
  #res {
-    height: 20px;
+    height: 40px;
+    width: 80px;
+    background-color: black;
+    color: white;
  }
  
 
 
  #timer {
      text-align: center;
-     font-size: 80px;
+     font-size: 80px; 
+     font-family: "alarm clock";
+     color:black;
+ } 
+
+ @font-face {
+     font-family: "alarm clock";
+     src: url(alarm\ clock.ttf);
  }
